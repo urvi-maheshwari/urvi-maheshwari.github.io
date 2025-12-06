@@ -4,33 +4,18 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+# Publications
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+## Journal Articles
+- Maheshwari, U. & Barner, D. (in press). *Back to reality: Children's early temporal reasoning applies to real but not hypothetical events.* **Child Development.** [psyarxiv]  
+- Maheshwari, U. & Barner, D. (2026). *Exact numerical reasoning in blind children and adults.* **Cognition, 267, 106351.** [published] [psyarxiv] [data]  
+- Maheshwari, U. & Barner, D. (2025). *Twice upon a time: Children use syntax to learn the meanings of yesterday and tomorrow.* **Developmental Science, 28(2), e13600.** [published] [psyarxiv] [data]  
 
-{% include base_path %}
+## Book Chapters & Open Access Resources
+- Van Hedger, S. C. & Maheshwari, U. (2025). *Language and music in the brain: Balancing domain-specific and domain-general mechanisms.* In E. Andrews & S. Kiran. (eds). The Cambridge Handbook of Language and Brain. Cambridge: Cambridge University Press. pp. 459 - 498. [book]
+- Campbell, N., Barr, L., Bovin, J.,... Maheshwari, U. … & Barrette-Ng, I. (2022). Uncovering the hidden curriculum. eCampusOntario Special Collections. [website] [DSpace] 
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+## Manuscripts Under Review
+- Maheshwari, U. & Barner, D. (under review). One, Two, Three, Four… What’s More? Successor relations, not mappings to approximate magnitudes, support learning the later-greater principle
+- Maheshwari, U., Sullivan, J., & Barner, D. (under review). Counting without end: A cross-linguistic exploration of infinity beliefs in English and Hindi learners.
+- Maheshwari, U. & Barner, D. (under review). Cross Linguistic Factors in Early Numerical Development.
