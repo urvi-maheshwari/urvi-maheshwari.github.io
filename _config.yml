@@ -28,15 +28,15 @@ author:
   orcid            : "https://orcid.org/0009-0009-3380-165X"
   
   # Social media
-  bluesky          : "https://bsky.app/profile/urvi.bsky.social"
+  bluesky          : "@urvi.bsky.social"
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  Journal Articles:
+    title: 'Journal Articles'   
+  Book Chapters and Open Access Resources:
+    title: '  Book Chapters and Open Access Resources'   
+  Manuscripts Under Review:
+    title: 'Manuscripts Under Review'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
