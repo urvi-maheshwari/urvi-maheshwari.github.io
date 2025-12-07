@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## About Me 
 
-I'm a Ph.D. candidate in Experimental Psychology at the University of California, San Diego. I grew up in Delhi, India, and then moved to Canada where I completed a B.A. (Hons). in Psychology, History, and the Scholar's Electives Program at the University of Western Ontario. I've been told I should have a website, so this is my attempt at making one.
+I'm a Ph.D. candidate in Experimental Psychology at the University of California, San Diego. Before this, I completed a B.A. (Hons). in Psychology, History, and the Scholar's Electives Program at the University of Western Ontario, Canada. I've been told I should have a website, so this is my attempt at making one.
 
 ## My Research 
 
