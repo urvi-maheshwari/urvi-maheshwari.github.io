@@ -29,4 +29,4 @@ My research program is centered around three broad questions:
   
 (3) what logical processes and sensorimotor procedures are involved in learning and abstraction? 
 
-I address these broader questions through empirical case studies on the origins and development of numerical cognition, temporal reasoning, spatial thinking, and modal reasoning in children and adults. I conduct both in-lab and field studies across a range of developmental, linguistic, and cultural contexts.
+I address these questions through empirical case studies on the origins and development of numerical cognition, temporal reasoning, spatial thinking, and modal reasoning in children and adults. I conduct both in-lab and field studies across a range of developmental, linguistic, and cultural contexts.
