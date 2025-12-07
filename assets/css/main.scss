@@ -2,33 +2,42 @@
 ---
 
 /*
- *    Minimal Mistakes Jekyll Theme
+ * This file controls what is imported from /_sass
  *
- *  - Michael Rose
- *  - mademistakes.com
- *  - https://twitter.com/mmistakes
- *
-*/
+ * Note that the files are processed in the order they are imported, so they are partly
+   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+ */
 
-// ------------------------------
-// OVERRIDE DEFAULT COLORS
-// ------------------------------
+@import
+    "vendor/breakpoint/breakpoint",
 
-// Make everything black-and-white
-$color-accent: #000 !default;       // black
-$color-primary: #000 !default;      // black
-$color-link: #000 !default;         // black
-$color-link-hover: #000 !default;   // black
-$color-background: #fff !default;   // white
-$color-heading: #000 !default;      // black
-$color-text: #000 !default;         // black
-$color-border: #000 !default;       // black
+    "themes",
+    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
+    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
 
-// ------------------------------
-// IMPORTS
-// ------------------------------
+    "include/mixins",
+    "vendor/susy/susy",
 
-@import "vendor/breakpoint/breakpoint"; // media query mixins
-@import "variables";
-@import "mixins";
-@import "vendor
+    "layout/reset",
+    "layout/base",
+
+    "include/utilities",
+    "layout/tables",
+    "layout/buttons",
+    "layout/notices",
+    "layout/masthead",
+    "layout/navigation",
+    "layout/footer",
+    "syntax",
+
+    "layout/forms",
+
+    "layout/page",
+    "layout/archive",
+    "layout/sidebar",
+    "layout/json_cv",
+
+    "vendor/font-awesome/fontawesome",
+    "vendor/font-awesome/solid",
+    "vendor/font-awesome/brands"
+;
