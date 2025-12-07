@@ -16,7 +16,6 @@ site_theme               : "default" # Currently available options are "default"
 author:
   # Biographic information
   avatar           : "images/urvi_website_mug.jpg"
-  name             : "Urvi Maheshwari"
   pronouns         : "she/her"  
   bio              : "PhD Candidate in Experimental Psychology"
   location         : "San Diego, CA"
