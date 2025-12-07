@@ -40,33 +40,7 @@
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
-;/* Light pink background with all black text */
-body {
-  background-color: #fff0f5; /* very light pink */
-  color: #000000; /* default text black */
-}
-
-a {
-  color: #000000; /* links black */
-}
-
-a:hover {
-  color: #000000; /* links stay black on hover */
-}
-
-h1, h2, h3, h4, h5, h6 {
-  color: #000000; /* headers black */
-}
-
-.button, .btn {
-  background-color: #000000; /* buttons black */
-  color: #ffffff; /* button text white for contrast */
-  border: none;
-}
-
-.button:hover, .btn:hover {
-  background-color: #000000; /* button stays black on hover */
-}
+;
 
 }
 
