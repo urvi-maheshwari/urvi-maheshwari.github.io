@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: "About Me"
 permalink: /about/
 author_profile: true
@@ -11,7 +11,6 @@ author_profile: true
     padding: 0 15px;
 }
 </style>
-
 ## About Me
 I'm a Ph.D. candidate in Experimental Psychology at the University of California, San Diego. I work with [Dr. David Barner](https://psychology.ucsd.edu/people/profiles/dbarner.html) at the [Language and Development Lab](https://ladlab.ucsd.edu/)
 
