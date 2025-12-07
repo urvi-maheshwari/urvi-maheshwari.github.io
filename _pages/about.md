@@ -1,10 +1,8 @@
 ---
 layout: archive
-permalink: /
 title: "About Me"
+permalink: /about/
 author_profile: true
-redirect_from: 
-  - /about/
 ---
 <style>
 .archive main {
