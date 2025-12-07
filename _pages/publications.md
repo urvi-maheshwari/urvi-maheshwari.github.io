@@ -4,6 +4,24 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<style>
+.archive main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+</style>
+
+# Publications
+
+## Journal Articles
+
+- **Maheshwari, U.** & Barner, D. (in press). Back to reality: Children's early temporal reasoning applies to real but not hypothetical events. *Child Development*. [[psyarxiv]](https://osf.io/gs3r4_v3/)
+
+- **Maheshwari, U.** & Barner, D. (2026). Exact numerical reasoning in blind children and adults. *Cognition, 267*, 106351. [[published]](https://www.sciencedirect.com/science/article/pii/S0010027725002926?dgcid=author) [[psyarxiv]](https://osf.io/preprints/psyarxiv/hq9c3_v1)
+
+... (rest of your content)
+
 
 # Publications
 
