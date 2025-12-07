@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "Hi! My Name is Urvi!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.md
 ---
+
+## About Me
 I'm a Ph.D. candidate in Experimental Psychology at the University of California, San Diego. I work with [Dr. David Barner](https://psychology.ucsd.edu/people/profiles/dbarner.html) at the [Language and Development Lab](https://ladlab.ucsd.edu/)
 
 Before this, I was at the University of Western, Ontario in Canada, where I completed a B.A. (Hons). in Psychology, History, and the Scholar's Electives Program.
