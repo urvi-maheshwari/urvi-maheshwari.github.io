@@ -16,9 +16,9 @@ author_profile: true
 
 - **Maheshwari, U.** & Barner, D. (in press). Back to reality: Children's early temporal reasoning applies to real but not hypothetical events. *Child Development*. [[psyarxiv]](https://osf.io/gs3r4_v3/)
 
-- **Maheshwari, U.** & Barner, D. (2026). Exact numerical reasoning in blind children and adults. *Cognition, 267*, 106351. [[published]](https://www.sciencedirect.com/science/article/pii/S0010027725002926?dgcid=author) [[psyarxiv]](https://osf.io/preprints/psyarxiv/hq9c3_v1) [[pdf]](/_publications/Maheshwari-Barner-2025-Cognition.pdf)
-
-- **Maheshwari, U.** & Barner, D. (2025). Twice upon a time: Children use syntax to learn the meanings of yesterday and tomorrow. *Developmental Science, 28*(2), e13600. [[published]](https://onlinelibrary.wiley.com/doi/10.1111/desc.13600) [[psyarxiv]](https://osf.io/preprints/osf/hc5vm)
+- **Maheshwari, U.** & Barner, D. (2026). Exact numerical reasoning in blind children and adults. *Cognition, 267*, 106351. [[published]](https://www.sciencedirect.com/science/article/pii/S0010027725002926?dgcid=author) [[psyarxiv]](https://osf.io/preprints/psyarxiv/hq9c3_v1)
+  
+- **Maheshwari, U.** & Barner, D. (2025). Twice upon a time: Children use syntax to learn the meanings of yesterday and tomorrow. *Developmental Science, 28*(2), e13600. [[published]](https://onlinelibrary.wiley.com/doi/10.1111/desc.13600) [[psyarxiv]](https://osf.io/preprints/osf/hc5vm) [[PDF]](assets/Maheshwari_Barner_2025_Developmental_Science.pdf)
 
 - Abreu-Mendoza, R. A., Barner, D., Boni, I.,… **Maheshwari, U.**, … & Gunderson, E. (Stage 1: accepted in-principle). ManyNumbers 1: A multi-lab international study of early number knowledge. *Developmental Science*. [[psyarxiv]](https://osf.io/hxe3j)
 
