@@ -8,7 +8,11 @@ redirect_from:
 ---
 ## About Me 
 
-I'm a Ph.D. candidate in Experimental Psychology at the University of California, San Diego. Before this, I completed a B.A. (Hons). in Psychology, History, and the Scholar's Electives Program at the University of Western Ontario, Canada. I've been told I should have a website, so this is my attempt at making one.
+I'm a Ph.D. candidate in Experimental Psychology at the University of California, San Diego. I work with [Dr. David Barner](https://psychology.ucsd.edu/people/profiles/dbarner.html) at the [Language and Development Lab](https://ladlab.ucsd.edu/)
+
+Before this, I was at the University of Western, Ontario in Canada, where I completed a B.A. (Hons). in Psychology, History, and the Scholar's Electives Program.
+
+I've been told I should have a website, so this is my attempt at making one.
 
 ## My Research 
 
