@@ -19,7 +19,7 @@ author_profile: true
 
 ## Book Chapters and Open Access Resources
 
-- Van Hedger, S. C. & **Maheshwari, U.** (2025). Language and music in the brain: Balancing domain-specific and domain-general mechanisms. In E. Andrews & S. Kiran. (eds). The Cambridge Handbook of Language and Brain. Cambridge: Cambridge University Press. pp. 459 - 498. [[book]]((https://www.cambridge.org/in/universitypress/subjects/languages-linguistics/psycholinguistics-and-neurolinguistics/cambridge-handbook-language-and-brain?format=HB&isbn=9781009202282))
+- Van Hedger, S. C. & **Maheshwari, U.** (2025). Language and music in the brain: Balancing domain-specific and domain-general mechanisms. In E. Andrews & S. Kiran. (eds). The Cambridge Handbook of Language and Brain. Cambridge: Cambridge University Press. pp. 459 - 498. [[book]](https://www.cambridge.org/in/universitypress/subjects/languages-linguistics/psycholinguistics-and-neurolinguistics/cambridge-handbook-language-and-brain?format=HB&isbn=9781009202282)
 
 - Campbell, N., Barr, L., Bovin, J.,... **Maheshwari, U. … & Barrette-Ng, I. (2022). Uncovering the hidden curriculum. eCampusOntario Special Collections. [[website]](https://hiddencurriculum.ca/) [[DSpace]](https://openlibrary-repo.ecampusontario.ca/jspui/handle/123456789/1500) 
 
