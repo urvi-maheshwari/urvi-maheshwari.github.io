@@ -15,7 +15,7 @@ redirect_from:
 </style>
 I'm a Ph.D. candidate in Experimental Psychology at the University of California, San Diego. I work with [Dr. David Barner](https://psychology.ucsd.edu/people/profiles/dbarner.html) at the [Language and Development Lab](https://ladlab.ucsd.edu/).
 
-Before this, I was at the University of Western Ontario, where I completed a B.A. (Hons). in Psychology and History, along with the Scholar's Electives Program.
+Before this, I was at the University of Western Ontario, where I completed a B.A. (Hons.) in Psychology and History, along with the Scholar's Electives Program.
 
 ## My Research 
 
@@ -29,4 +29,4 @@ My research program is centered around three broad questions:
   
 (3) what logical processes and sensorimotor procedures are involved in learning and abstraction? 
 
-I answer these questions via empirical studies exploring the origins and development of numerical cognition, temporal reasoning, spatial thinking, modal representations, and counterfactual thought. I study the development of these abilities among children and adults across various linguistic, developmental, and cultural contexts.
+I address these broader questions through empirical case studies on the origins and development of numerical cognition, temporal reasoning, spatial thinking, and modal reasoning in children and adults. I conduct both in-lab and field studies across a range of developmental, linguistic, and cultural contexts.
