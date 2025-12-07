@@ -15,7 +15,7 @@ site_theme               : "default" # Currently available options are "default"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/urvi_website_mug.jpg"
+  avatar           : "/images/urvi_website_mug.jpg"
   pronouns         : "she/her"  
   bio              : "PhD Candidate in Experimental Psychology"
   location         : "San Diego, CA"
