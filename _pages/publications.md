@@ -34,6 +34,6 @@ author_profile: true
 
 - **Maheshwari, U.**, Sullivan, J., & Barner, D. (under review). Counting without end: A cross-linguistic exploration of infinity beliefs in English and Hindi learners.
 
-- Yu, Y., Boni, I., Cheung, P.,… **Maheshwari, U.**, … & Barner, D. (under review). ManyNumbers 3: A multi-lab study of demographic correlates of early number knowledge.
+- Yu, Y., Boni, I., Cheung, P.,… **Maheshwari, U.**, … & Barner, D. (under review). ManyNumbers 3: A multi-lab study of demographic correlates of early number knowledge.  [[psyarxiv]](https://osf.io/re39y)
 
 - **Maheshwari, U.** & Barner, D. (under review). Cross Linguistic Factors in Early Numerical Development.
