@@ -31,4 +31,4 @@ My research program is centered around three broad questions:
 
 I address these questions through empirical case studies on the origins and development of numerical cognition, temporal reasoning, spatial thinking, and modal reasoning in children and adults. I conduct both in-lab and field studies across a range of developmental, linguistic, and cultural contexts.
 
-Publications and working papers can be found [here](/publications/), and a short CV can be found [here](/cv/)
+A list of publications and working papers on these topics can be found [here](/publications/), and a short version of my CV can be found [here](/cv/)
