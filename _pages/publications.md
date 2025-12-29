@@ -12,6 +12,8 @@ author_profile: true
 }
 </style>
 
+Electronic versions or PDFs of articles are provided to ensure timely dissemination of academic work. They can be downloaded for noncommercial purposes. Copyright resides with the respective copyright holders as stated in each article. The files may not be reposted without permission from copyright holders.
+
 ## Journal Articles
 
 - **Maheshwari, U.** & Barner, D. (in press). Back to reality: Children's early temporal reasoning applies to real but not hypothetical events. *Child Development*. [[psyarxiv]](https://osf.io/gs3r4_v3/)
@@ -24,7 +26,7 @@ author_profile: true
 
 ## Book Chapters and Open Access Resources
 
-- Van Hedger, S. C. & **Maheshwari, U.** (2025). Language and music in the brain: Balancing domain-specific and domain-general mechanisms. In E. Andrews & S. Kiran. (eds). The Cambridge Handbook of Language and Brain. Cambridge: Cambridge University Press. pp. 459 - 498. [[book]](https://www.cambridge.org/in/universitypress/subjects/languages-linguistics/psycholinguistics-and-neurolinguistics/cambridge-handbook-language-and-brain?format=HB&isbn=9781009202282)
+- Van Hedger, S. C. & **Maheshwari, U.** (2025). Language and music in the brain: Balancing domain-specific and domain-general mechanisms. In E. Andrews & S. Kiran. (eds). The Cambridge Handbook of Language and Brain. Cambridge: Cambridge University Press. pp. 459 - 498. [[book]](https://www.cambridge.org/in/universitypress/subjects/languages-linguistics/psycholinguistics-and-neurolinguistics/cambridge-handbook-language-and-brain?format=HB&isbn=9781009202282) [[chapter]](https://www.cambridge.org/core/books/cambridge-handbook-of-language-and-brain/music-and-language-in-the-brain/AA6968A85B66FB78E7E883C66C805F82) [[PDF]](/assets/VanHedger_Maheshwari_2025_Cambridge.pdf)
 
 - Campbell, N., Barr, L., Bovin, J.,... **Maheshwari, U.** … & Barrette-Ng, I. (2022). Uncovering the hidden curriculum. eCampusOntario Special Collections. [[website]](https://hiddencurriculum.ca/) [[DSpace]](https://openlibrary-repo.ecampusontario.ca/jspui/handle/123456789/1500) 
 
