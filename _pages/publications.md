@@ -12,7 +12,6 @@ author_profile: true
 }
 </style>
 
-Electronic versions or PDFs of articles are provided to ensure timely dissemination of academic work. They can be downloaded for noncommercial purposes. Copyright resides with the respective copyright holders as stated in each article. The files may not be reposted without permission from copyright holders.
 ## Journal Articles
 
 - **Maheshwari, U.** & Barner, D. (in press). Back to reality: Children's early temporal reasoning applies to real but not hypothetical events. *Child Development*. [[psyarxiv]](https://osf.io/gs3r4_v3/)
@@ -38,3 +37,6 @@ Electronic versions or PDFs of articles are provided to ensure timely disseminat
 - Yu, Y., Boni, I., Cheung, P.,… **Maheshwari, U.**, … & Barner, D. (under review). ManyNumbers 3: A multi-lab study of demographic correlates of early number knowledge.  [[psyarxiv]](https://osf.io/re39y)
 
 - **Maheshwari, U.** & Barner, D. (under review). Cross Linguistic Factors in Early Numerical Development.
+
+
+**Note:** Electronic versions of articles are provided to ensure timely dissemination of academic work. These can be downloaded for noncommercial purposes. Copyright resides with the copyright holders listed in each article. Files may not be reposted without permission from copyright holders.
