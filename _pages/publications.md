@@ -13,7 +13,6 @@ author_profile: true
 </style>
 
 Electronic versions or PDFs of articles are provided to ensure timely dissemination of academic work. They can be downloaded for noncommercial purposes. Copyright resides with the respective copyright holders as stated in each article. The files may not be reposted without permission from copyright holders.
-
 ## Journal Articles
 
 - **Maheshwari, U.** & Barner, D. (in press). Back to reality: Children's early temporal reasoning applies to real but not hypothetical events. *Child Development*. [[psyarxiv]](https://osf.io/gs3r4_v3/)
