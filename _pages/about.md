@@ -17,6 +17,7 @@ I'm a Ph.D. candidate in Experimental Psychology at the University of California
 
 Before this, I was at the University of Western Ontario, where I completed a B.A. (Hons.) in Psychology and History, along with the Scholar's Electives Program.
 
+<span style="font-size: 0.85em;"><em>*My profile picture was taken my Miguel Mejia. Check out his work [here](https://www.instagram.com/miguelmejiaphotography/).*</em></span>
 ## My Research 
 
 How do humans make sense of the world? All animals experience physical reality. Like ants, pigeons, fish, rats, and monkeys, humans readily represent space, estimate quantities, and discriminate durations. But unlike other animals, humans rely on abstract symbols to organize this noisy perceptual experience. We create maps and models to navigate space, design clocks and calendars to keep time, and construct counting systems to reason about numbers. What's more, we reason about entities, places, and times that we never directly experience. We imagine places we’ve never been, budget and trade amounts we’ve never seen, ruminate over counterfactual pasts, and make plans for multiple possible futures. Motivated to build explanations of our experience, we construct scientific theories, build complex technologies, create art, and write fiction, not just to describe how the world is, but imagine how it could be. I study the foundations of such abstract thought.
