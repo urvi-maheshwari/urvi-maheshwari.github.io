@@ -14,6 +14,8 @@ author_profile: true
 
 ## Journal Articles
 
+- **Maheshwari, U.** & Barner, D. (in press). One, Two, Three, Four… What’s More? Successor relations, not mappings to approximate magnitudes, support learning the later-greater principle. *Cognitive Science*.
+
 - **Maheshwari, U.**, Sullivan, J., & Barner, D. (2026). Counting without end: A cross-linguistic exploration of infinity beliefs in English and Hindi learners. *Journal of Experimental Child Psychology, 266*, 106473. [[published]](https://authors.elsevier.com/a/1mZV-51Y-bK1x) [[PDF]](/assets/Maheshwari_etal_2026_JECP.pdf)
   
 - **Maheshwari, U.** & Barner, D. (2026). Back to reality: Children's early temporal reasoning applies to real but not hypothetical events. *Child Development*, *97*, 248-260. [[published]](https://academic.oup.com/chidev/advance-article/doi/10.1093/chidev/aacaf019/8444705#550736743) [[psyarxiv]](https://osf.io/gs3r4_v3/) [[PDF]](/assets/Maheshwari_Barner_2026_Child_Development.pdf)
@@ -37,8 +39,6 @@ author_profile: true
 ## Manuscripts Under Review
 
 - **Maheshwari, U.**, Walker, C.M., & Barner, D. (under review). Two-year-olds reason about multiple mutually exclusive possibilities. [[psyarxiv]](https://osf.io/preprints/psyarxiv/bq3sk_v1)
-
-- **Maheshwari, U.** & Barner, D. (under review). One, Two, Three, Four… What’s More? Successor relations, not mappings to approximate magnitudes, support learning the later-greater principle.
 
 - **Maheshwari, U.**<sup>a</sup>, Boskovic, K.<sup>a</sup>, & Barner, D. (under review). The role of analogy in the linguistic encoding of number and space. [[psyarxiv]](https://osf.io/preprints/psyarxiv/ucxra_v1)
 
