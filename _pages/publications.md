@@ -38,7 +38,7 @@ author_profile: true
 
 ## Manuscripts Under Review
 
-- **Maheshwari, U.**, Walker, C.M., & Barner, D. (under review). Two-year-olds reason about multiple mutually exclusive possibilities. [[psyarxiv]](https://osf.io/preprints/psyarxiv/bq3sk_v1)
+- **Maheshwari, U.**, Walker, C.M., & Barner, D. (under review). Two-and-a-half-year-olds reason about multiple mutually exclusive possibilities. [[psyarxiv]](https://osf.io/preprints/psyarxiv/bq3sk_v1)
 
 - **Maheshwari, U.**<sup>a</sup>, Boskovic, K.<sup>a</sup>, & Barner, D. (under review). The role of analogy in the linguistic encoding of number and space. [[psyarxiv]](https://osf.io/preprints/psyarxiv/ucxra_v1)
 
