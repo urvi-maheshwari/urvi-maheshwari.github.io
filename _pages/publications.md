@@ -16,7 +16,7 @@ author_profile: true
 
 - **Maheshwari, U.** & Barner, D. (2026). One, Two, Three, Four… What’s More? Successor relations, not mappings to approximate magnitudes, support learning the later-greater principle. *Cognitive Science, 50*, e70267. [[published]](https://onlinelibrary.wiley.com/doi/10.1111/cogs.70267) [[PDF]](/assets/Maheshwari_Barner_2026_CognitiveScience.pdf)
 
-- **Maheshwari, U.**, Sullivan, J., & Barner, D. (2026). Counting without end: A cross-linguistic exploration of infinity beliefs in English and Hindi learners. *Journal of Experimental Child Psychology, 266*, 106473. [[published]](https://authors.elsevier.com/a/1mZV-51Y-bK1x) [[PDF]](/assets/Maheshwari_etal_2026_JECP.pdf)
+- **Maheshwari, U.**, Sullivan, J., & Barner, D. (2026). Counting without end: A cross-linguistic exploration of infinity beliefs in English and Hindi learners. *Journal of Experimental Child Psychology, 266*, 106473. [[published]](https://pubmed.ncbi.nlm.nih.gov/41650743/) [[PDF]](/assets/Maheshwari_etal_2026_JECP.pdf)
   
 - **Maheshwari, U.** & Barner, D. (2026). Back to reality: Children's early temporal reasoning applies to real but not hypothetical events. *Child Development*, *97*, 248-260. [[published]](https://academic.oup.com/chidev/advance-article/doi/10.1093/chidev/aacaf019/8444705#550736743) [[psyarxiv]](https://osf.io/gs3r4_v3/) [[PDF]](/assets/Maheshwari_Barner_2026_Child_Development.pdf)
 
