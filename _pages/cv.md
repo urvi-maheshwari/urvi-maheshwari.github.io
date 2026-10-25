@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 ---
-```html
+
 <div class="document-container">
 
   <!-- Black-and-white download button -->
@@ -102,5 +102,4 @@ author_profile: true
     }
   }
 </style>
-```
 
