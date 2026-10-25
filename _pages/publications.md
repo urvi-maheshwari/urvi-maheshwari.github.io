@@ -12,6 +12,14 @@ author_profile: true
 }
 </style>
 
+## Manuscripts Under Review
+
+- **Maheshwari, U.**, Walker, C.M., & Barner, D. (under review). Do young children represent multiple mutually exclusive possibilities? [[psyarxiv]](https://osf.io/preprints/psyarxiv/bq3sk_v2/)
+
+- **Maheshwari, U.**<sup>a</sup>, Boskovic, K.<sup>a</sup>, & Barner, D. (under review). The role of analogy in the linguistic encoding of number and space. [[psyarxiv]](https://osf.io/preprints/psyarxiv/bq3sk_v2)
+
+- Yu, Y., **Maheshwari, U.**, & Barner, D. (under review). Cross-modal generalization of numerical calibration.
+
 ## Journal Articles
 
 - **Maheshwari, U.** & Barner, D. (2026). One, Two, Three, Four… What’s More? Successor relations, not mappings to approximate magnitudes, support learning the later-greater principle. *Cognitive Science, 50*, e70267. [[published]](https://onlinelibrary.wiley.com/doi/10.1111/cogs.70267) [[PDF]](/assets/Maheshwari_Barner_2026_CognitiveScience.pdf)
@@ -35,14 +43,6 @@ author_profile: true
 - Van Hedger, S. C. & **Maheshwari, U.** (2025). Language and music in the brain: Balancing domain-specific and domain-general mechanisms. In E. Andrews & S. Kiran. (eds). The Cambridge Handbook of Language and Brain. Cambridge: Cambridge University Press. pp. 459 - 498. [[book]](https://www.cambridge.org/in/universitypress/subjects/languages-linguistics/psycholinguistics-and-neurolinguistics/cambridge-handbook-language-and-brain?format=HB&isbn=9781009202282) [[chapter]](https://www.cambridge.org/core/books/cambridge-handbook-of-language-and-brain/music-and-language-in-the-brain/AA6968A85B66FB78E7E883C66C805F82) [[PDF]](/assets/VanHedger_Maheshwari_2025_Cambridge.pdf)
 
 - Campbell, N., Barr, L., Bovin, J.,... **Maheshwari, U.** … & Barrette-Ng, I. (2022). Uncovering the hidden curriculum. eCampusOntario Special Collections. [[website]](https://hiddencurriculum.ca/) [[DSpace]](https://openlibrary-repo.ecampusontario.ca/jspui/handle/123456789/1500) 
-
-## Manuscripts Under Review
-
-- **Maheshwari, U.**, Walker, C.M., & Barner, D. (under review). Do young children represent multiple mutually exclusive possibilities? [[psyarxiv]](https://osf.io/preprints/psyarxiv/bq3sk_v2/)
-
-- **Maheshwari, U.**<sup>a</sup>, Boskovic, K.<sup>a</sup>, & Barner, D. (under review). The role of analogy in the linguistic encoding of number and space. [[psyarxiv]](https://osf.io/preprints/psyarxiv/bq3sk_v2)
-
-- Yu, Y., **Maheshwari, U.**, & Barner, D. (under review). Cross-modal generalization of numerical calibration.
 
 <sup>a</sup> equal contribution
 
