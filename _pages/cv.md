@@ -23,7 +23,7 @@ author_profile: true
   <!-- Responsive embedded document -->
   <div class="document-frame">
     <iframe
-      src="https://docs.google.com/document/d/e/2PACX-1vTpAQstCVSP2hH6l6U2_ol2jNMSzXh6lVHYBaQLVJu0hBzHbp9R-UcR-ABoTkokzw/pub?embedded=true"
+      src="https://docs.google.com/document/d/13SmAmiU46pZHb3BbJMQa6AihOLB_16Hz/edit?usp=sharing&ouid=108036607132632181935&rtpof=true&sd=true"
       title="Embedded document"
       loading="lazy">
     </iframe>
