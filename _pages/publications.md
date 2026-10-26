@@ -36,6 +36,14 @@ author_profile: true
 
 - Campbell, N., Barr, L., Bovin, J.,... **Maheshwari, U.** … & Barrette-Ng, I. (2022). Uncovering the hidden curriculum. eCampusOntario Special Collections. [[website]](https://hiddencurriculum.ca/) [[DSpace]](https://openlibrary-repo.ecampusontario.ca/jspui/handle/123456789/1500) 
 
+## Manuscripts Under Review
+
+- **Maheshwari, U.**, Walker, C.M., & Barner, D. (under review). Do young children represent multiple mutually exclusive possibilities? [[psyarxiv]](https://osf.io/preprints/psyarxiv/bq3sk_v2/)
+
+- **Maheshwari, U.** <sup>a</sup>, Boskovic, K.<sup>a</sup>, & Barner, D. (under review). The role of analogy in the linguistic encoding of number and space. [[psyarxiv]](https://osf.io/preprints/psyarxiv/bq3sk_v2)
+
+- Yu, Y., **Maheshwari, U.**, & Barner, D. (under review). Cross-modal generalization of numerical calibration.
+
 <sup>a</sup> equal contribution
 
 **Note:** Electronic versions of articles are provided to ensure timely dissemination of academic work. These can be downloaded for noncommercial purposes. Copyright resides with the copyright holders listed in each article. Files may not be reposted without permission from copyright holders.
