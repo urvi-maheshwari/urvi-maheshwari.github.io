@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-{% assign cv_path = '/assets/UrviMaheshwari_CV_Nov26.pdf' | relative_url %}
+{% assign cv_path = '/assets/UrviMaheshwari_CV_Online.pdf' | relative_url %}
 
 <div class="document-container">
 
