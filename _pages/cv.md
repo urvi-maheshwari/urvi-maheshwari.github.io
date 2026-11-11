@@ -5,28 +5,34 @@ permalink: /cv/
 author_profile: true
 ---
 
+{% assign cv_path = '/assets/UrviMaheshwari_CV_Nov26.pdf' | relative_url %}
+
 <div class="document-container">
 
   <!-- Black-and-white download button -->
   <div class="document-actions">
     <a
-      href="https://docs.google.com/document/d/13SmAmiU46pZHb3BbJMQa6AihOLB_16Hz/export?format=pdf"
+      href="{{ cv_path }}"
       class="download-button"
-      target="_blank"
-      rel="noopener noreferrer"
-      aria-label="Download document as PDF"
+      download="UrviMaheshwari_CV_Nov26.pdf"
+      aria-label="Download CV as PDF"
     >
       ↓ Download PDF
     </a>
   </div>
 
-  <!-- Responsive embedded document -->
+  <!-- Embedded PDF -->
   <div class="document-frame">
-    <iframe
-      src="https://docs.google.com/document/d/13SmAmiU46pZHb3BbJMQa6AihOLB_16Hz/edit?usp=sharing&ouid=108036607132632181935&rtpof=true&sd=true"
-      title="Embedded document"
-      loading="lazy">
-    </iframe>
+    <object
+      data="{{ cv_path }}#toolbar=0&navpanes=0"
+      type="application/pdf"
+      aria-label="Embedded CV">
+      <p class="pdf-fallback">
+        Your browser can't display the PDF inline.
+        <a href="{{ cv_path }}" target="_blank" rel="noopener noreferrer">Open the CV in a new tab</a>
+        or use the download button above.
+      </p>
+    </object>
   </div>
 
 </div>
@@ -76,11 +82,17 @@ author_profile: true
     overflow: hidden;
   }
 
-  .document-frame iframe {
+  .document-frame object {
     display: block;
     width: 100%;
     height: 100%;
     border: none;
+  }
+
+  .pdf-fallback {
+    padding: 16px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
   }
 
   @media (max-width: 600px) {
@@ -102,4 +114,3 @@ author_profile: true
     }
   }
 </style>
-
