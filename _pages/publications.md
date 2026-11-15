@@ -18,7 +18,7 @@ author_profile: true
 
 - **Maheshwari, U.** <sup>a</sup>, Boskovic, K.<sup>a</sup>, & Barner, D. (under review). The role of analogy in the linguistic encoding of number and space. [[psyarxiv]](https://osf.io/preprints/psyarxiv/bq3sk_v2)
 
-- Yu, Y., **Maheshwari, U.**, & Barner, D. (under review). Cross-modal generalization of numerical calibration.
+- Yu, Y., **Maheshwari, U.**, & Barner, D. (under review). Cross-modal calibration of number estimates.
 
 ## In Press 
 
